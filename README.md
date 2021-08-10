@@ -1,4 +1,4 @@
-# DecisionTress-for-Brain-Strokes-Predictions
+# Multiple Classifiers-for-Brain-Strokes-Predictions
 
 **Context**
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
